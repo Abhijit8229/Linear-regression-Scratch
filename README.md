@@ -3,7 +3,6 @@
 
 This project implements a linear regression model **entirely from scratch using Python and NumPy** to predict salaries based on years of experience. The goal is to understand how a simple linear model is built, trained, and evaluated without relying on machine learning libraries like scikit-learn.
 
----
 
 ## Project Overview
 
@@ -13,7 +12,7 @@ This project implements a linear regression model **entirely from scratch using 
 - Evaluate model performance using the R² score.
 - Plot the best fit line and cost convergence.
 
----
+
 
 ## Dataset
 
@@ -22,7 +21,7 @@ This project implements a linear regression model **entirely from scratch using 
   - `YearsExperience`
   - `Salary`
 
----
+
 
 ## Tech Stack
 
@@ -32,9 +31,8 @@ This project implements a linear regression model **entirely from scratch using 
 - **pandas** (CSV loading and data wrangling)
 
 
----
 
-## 🚀 Running the Project
+##  Running the Project
 
 ### 1. Clone the repository
 ```bash
